@@ -1,0 +1,2 @@
+# iflytek2021-AirQualityPrediction
+2021年讯飞开发者大赛空气质量赛道Top2解决方案
